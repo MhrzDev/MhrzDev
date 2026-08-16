@@ -26,17 +26,19 @@ Desenvolvo sistemas web, painéis administrativos e ferramentas de automação v
 
 ## Projetos em Destaque
 
-### DP-X
+### Central Policial
 
 Plataforma de gerenciamento operacional criada para um departamento policial virtual.
 
 Entre as principais funcionalidades estão autenticação, controle de acesso por cargo, gerenciamento de membros, relatórios de atividades, controle de ponto, gerenciamento de instruções, liberações de viaturas, solicitações, notificações e ferramentas administrativas.
 
+[Ver repositório](https://github.com/MhrzDev/police-command-center)
+
 **Tecnologias:** JavaScript, Node.js, PostgreSQL e Supabase.
 
 ---
 
-### Sistema de Gerenciamento GAR
+### Sistema de Gerenciamento - Unidade
 
 Sistema completo de gerenciamento operacional desenvolvido para organizar membros, atividades e processos internos.
 
