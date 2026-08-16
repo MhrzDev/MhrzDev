@@ -44,6 +44,8 @@ Sistema completo de gerenciamento operacional desenvolvido para organizar membro
 
 Possui registros de atividades, controle de pontos e horas, requisitos de promoção, presença, cursos, solicitações, notificações e painéis administrativos.
 
+[Ver repositório](https://github.com/MhrzDev/tactical-unit-manager)
+
 **Tecnologias:** JavaScript, Node.js, PostgreSQL e Supabase.
 
 ---
