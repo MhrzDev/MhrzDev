@@ -28,7 +28,7 @@ I build web systems, administrative dashboards and automation tools focused on s
 
 ### Police Command Center
 
-A bilingual police management platform for FiveM RP environments, featuring authentication, role-based permissions, personnel management, operations, training, duty tracking and administrative workflows.
+A police management platform for FiveM RP environments, with bilingual documentation and features such as authentication, role-based permissions, personnel management, operations, training, duty tracking and administrative workflows.
 
 [View repository](https://github.com/MhrzDev/police-command-center)
 
