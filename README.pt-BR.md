@@ -28,7 +28,7 @@ Desenvolvo sistemas web, painéis administrativos e ferramentas de automação v
 
 ### Central Policial
 
-Plataforma de gerenciamento operacional criada para um departamento policial virtual.
+Plataforma de gestão policial para ambientes FiveM RP, com documentação bilíngue, autenticação, permissões por função, gestão de efetivo, operações, treinamentos, controle de serviço e rotinas administrativas.
 
 Entre as principais funcionalidades estão autenticação, controle de acesso por cargo, gerenciamento de membros, relatórios de atividades, controle de ponto, gerenciamento de instruções, liberações de viaturas, solicitações, notificações e ferramentas administrativas.
 
