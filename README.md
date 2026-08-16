@@ -30,13 +30,13 @@ I build web systems, administrative dashboards and automation tools focused on s
 
 A bilingual police management platform for FiveM RP environments, featuring authentication, role-based permissions, personnel management, operations, training, duty tracking and administrative workflows.
 
-[View repository | Ver repositório](https://github.com/MhrzDev/police-command-center)
+[View repository](https://github.com/MhrzDev/police-command-center)
 
 **Technologies | Tecnologias:** JavaScript, Node.js, Express, PostgreSQL and Supabase.
 
 ---
 
-### GAR Management System
+### Unit Management System
 
 A complete operational management system designed to organize members, activities and internal processes.
 
