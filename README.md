@@ -26,13 +26,13 @@ I build web systems, administrative dashboards and automation tools focused on s
 
 ## Featured Projects
 
-### DP-X
+### Police Command Center
 
-An operational management platform created for a virtual police department.
+A bilingual police management platform for FiveM RP environments, featuring authentication, role-based permissions, personnel management, operations, training, duty tracking and administrative workflows.
 
-Main features include authentication, role-based access, staff management, activity reports, clock tracking, training management, vehicle permissions, requests, notifications and administrative tools.
+[View repository | Ver repositório](https://github.com/MhrzDev/police-command-center)
 
-**Technologies:** JavaScript, Node.js, PostgreSQL and Supabase.
+**Technologies | Tecnologias:** JavaScript, Node.js, Express, PostgreSQL and Supabase.
 
 ---
 
